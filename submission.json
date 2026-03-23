@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic photograph of a student sitting alone at a wooden desk, surrounded by crumpled and discarded exam papers on the floor. On the desk, a single worn exam paper is obsessively annotated and highlighted, with pages of notes taped to the wall referencing only that one document. A stack of completely unanswered fresh exam papers sits untouched beside them. Soft, moody natural window light. Shallow depth of field. Physically plausible, realistic scene. No text visible, no diagrams, no labels.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A student who memorized one exam paper perfectly cannot attempt any new paper — mirroring a model that fits training data exactly but fails completely on unseen data."
+}
